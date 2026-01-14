@@ -35,9 +35,13 @@ Reflexionar sobre cómo se organizan los datos en el mundo real y comenzar a pen
 
 2. Responde:
    - ¿Qué información parece repetirse?
+   - El nombre del departamento, el nombre del proyecto, el nombre del empleado
    - ¿Qué datos podrían separarse en distintas tablas?
+   - He saparado los datos del empleado, los datos del Departamento y los datos del Proyecto
    - ¿Qué columnas podrían servir como identificadores únicos (claves primarias)?
+   - solo veo el ID_Empleado como clave primaria
    - ¿Qué relaciones ves entre los datos?
+   - el ID_EMPLEADO se relaciona con el resto de tablas indicadas anteriormente
 
 > ✅ **Entregable**: Esquema escrito a mano o digital con las entidades detectadas y relaciones sugeridas (puedes usar [https://dbdiagram.io](https://dbdiagram.io)).
 
